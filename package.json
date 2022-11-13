@@ -1,0 +1,23 @@
+{
+  "name": "gym-express",
+  "version": "1.0.0",
+  "description": "Its A Simple Express Webiste for GYM SITE",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "Bootstrap"
+  ],
+  "author": "Jesus Sheep Akash",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
